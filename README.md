@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Weather App
+A simple weather app that allows you to get current weather information that the city you entered. Built with React and used OpenWeatherMap's API.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Technologies
+Project is created with:
+* React
+* Bootstrap
+* OpenWeatherMap's API
 
 ## Available Scripts
 
